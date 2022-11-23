@@ -1,0 +1,303 @@
+id,notelabel,noterefs,notetext
+1,2105,2555,Vapor pressure data for water from Wagner and Pruss (1993) was needed to calculate H<sub>s</sub>.
+2,3027,3027,"Winkler (1891b) also contains high-temperature data. However, only data up to 330&nbsp;K were used here to calculate the temperature dependence."
+3,from1943,1943,Value given here as quoted by Fogg and Sangster (2003).
+4,1943-7782-44-7-erratum,1943,"Erratum for page 270 of Fogg and Sangster (2003): The CAS registry number is incorrect, and the corresponding equation is incorrect. The first term should be &#8722;178.763753281, not &#8722;187.07794."
+5,from477,477,Value given here as quoted by Lide and Frederikse (1995).
+6,379,"379,255","Only the tabulated data between T&nbsp;= 273&nbsp;K and T&nbsp;= 303&nbsp;K from Dean (1992) were used to derive H<sub>s</sub> and its temperature dependence. Above T&nbsp;= 303&nbsp;K, the tabulated data could not be parameterized very well. The partial pressure of water vapor (needed to convert some Henry''s law constants) was calculated using the formula given by Sander et&nbsp;al. (1995). The quantities A and &#945; from Dean (1992) were assumed to be identical."
+7,whichref,"",Several references are given in the list of Henry's law constants but not assigned to specific species.
+8,2549,2549,Roth and Sullivan (1981) found that H<sub>s</sub> depends on the concentration of OH<sup>&#8722;</sup>.
+9,at293K,"",Value at T&nbsp;= 293&nbsp;K.
+10,from492,492,Value given here as quoted by Durham et&nbsp;al. (1981).
+11,763,"",Calculated from correlation between the polarizabilities and solubilities of stable gases. The temperature dependence is an estimate of the upper limit.
+12,46OH,46,Jacob (1986) assumed the temperature dependence to be the same as for water.
+13,209HO2,"209,31,34,46","In the abstract, Schwartz (1984) gives a range of 9.9 mol/(m<sup>3</sup>&nbsp;Pa)  &lt;  H<sub>s</sub><sup>cp</sup> &lt;  3.0&times;10<sup>1</sup> mol/(m<sup>3</sup>&nbsp;Pa). The mean value of this range (2.0&times;10<sup>1</sup> mol/(m<sup>3</sup>&nbsp;Pa)) has been used by Lelieveld and Crutzen (1991), Pandis and Seinfeld (1989), and Jacob (1986)."
+14,46HO2,209,The value of H<sub>s</sub><sup>&ominus;</sup> was taken from Schwartz (1984).
+15,1943-7722-84-1-erratum,1943,"Erratum for page 264 of Fogg and Sangster (2003): The second value from their Ref.&nbsp;[10] refers to 291.15&nbsp;K, not 281.15&nbsp;K."
+16,311,258,This value is a correction of the solubility published by Lind and Kok (1986).
+17,799h2o2,311,"This value was measured at low pH. It is superseded by a later publication of the same group (Lind and Kok, 1994)."
+18,34H2O2,"34,258,311","Pandis and Seinfeld (1989) cite an incorrect value from Lind and Kok (1986), see erratum by Lind and Kok (1994)."
+19,at310K,"",Value at T&nbsp;= 310&nbsp;K.
+20,from510,510,Value given here as quoted by Betterton (1992).
+21,641amine,"641,793","Bone et&nbsp;al. (1983) gives Carter et&nbsp;al. (1968) as the source. However, no data were found in that reference."
+22,2626typo,2626,"There is a typo in Sander et&nbsp;al. (2011): The value for A should be &#8722;10.19, not 10.19."
+23,at303K,"",Value at T&nbsp;= 303&nbsp;K.
+24,477ABC,477,"The parametrization given by Lide and Frederikse (1995) with parameters A, B, and C doesn''t fit the data in the same paper for this substance. Therefore the parametrization of the solubility data was recalculated."
+25,2626-10102-43-9-consicheck,2626,"The H298 and A,B,C data listed in Table 5.4 of Sander et&nbsp;al. (2011) are inconsistent, with 94&nbsp;% difference."
+26,1945-10102-43-9-consicheck,1945,"The H298 and A,B,C data listed in Table 5.4 of Sander et&nbsp;al. (2006) are inconsistent, with 94&nbsp;% difference."
+27,at297K,"",Value at T&nbsp;= 297&nbsp;K.
+28,at288K,"",Value at T&nbsp;= 288&nbsp;K.
+29,1943-10102-43-9-erratum,1943,Erratum for page 269 of Fogg and Sangster (2003): The equation is incorrect and not consistent with the corresponding equation for ln(x): The temperature in the last term must be divided by 100 (i.e.&nbsp;ln(T/100) not ln(T)) and an additional term of ln(100) must be added.
+30,190,190,"The fitting parameters A, B, C, and D in Table I of Wilhelm et&nbsp;al. (1977) do not reproduce the data in their Table III."
+31,at295K,"",Value at T&nbsp;= 295&nbsp;K.
+32,34NO2wrongref,"34,209",Pandis and Seinfeld (1989) refer to Schwartz (1984) as the source but the quoted value cannot be found there.
+33,585NO3,"",Value obtained by estimating the diffusion coefficient for NO<sub>3</sub> to be D&nbsp;= 1.0&times;10<sup>&#8722;5</sup>&nbsp;cm<sup>2</sup>/s.
+34,46NO3,46,Jacob (1986) assume that NO<sub>3</sub> has the same Henry's law constant as HNO<sub>3</sub>.
+35,935,"935,34",Seinfeld and Pandis (1998) probably refer to the incorrect value given by Pandis and Seinfeld (1989).
+36,514N2O5,"",This value was extrapolated from data at T = 230&nbsp;K and T = 273&nbsp;K.
+37,infty,"","Fast, irreversible hydrolysis is assumed, which is equivalent to an infinite effective Henry''s law constant."
+38,3088-1145,1145,Calculated based on the method by Meylan and Howard (1991).
+39,31HNO3,"31,449",Lelieveld and Crutzen (1991) assume the temperature dependence to be the same as for a(H<sup>+</sup>)a(NO<sub>3</sub><sup>&#8722;</sup>)/p(HNO<sub>3</sub>) in Schwartz and White (1981).
+40,2839-7697-37-2,"",H<sub>s</sub>&#8242;&nbsp;= 2.6&times;10<sup>7</sup>&times;exp(8700&nbsp;K ((1)/(T)&#8722;(1)/(T<sup>&ominus;</sup>)))&nbsp;(mol<sup>2</sup>)/(m<sup>6</sup>&nbsp;Pa)
+41,530-7697-37-2,"",H<sub>s</sub>&#8242;&nbsp;= 2.4&times;10<sup>7</sup>&times;exp(8700&nbsp;K ((1)/(T)&#8722;(1)/(T<sup>&ominus;</sup>)))&nbsp;(mol<sup>2</sup>)/(m<sup>6</sup>&nbsp;Pa)
+42,34HNO3,"34,209,449",Pandis and Seinfeld (1989) refer to Schwartz (1984) as the source but it is probably from Schwartz and White (1981).
+43,260,530,"The value is incorrect. See erratum (Brimblecombe and Clegg, 1989)."
+44,507HNO4,507,Möller and Mauersberger (1992) assumed the solubility to be comparable to that of HNO<sub>3</sub>.
+45,530-7664-39-3,"",H<sub>s</sub>&#8242;&nbsp;= 9.4&times;10<sup>1</sup>&times;exp(7400&nbsp;K ((1)/(T)&#8722;(1)/(T<sup>&ominus;</sup>)))&nbsp;(mol<sup>2</sup>)/(m<sup>6</sup>&nbsp;Pa)
+46,2625,"",Extrapolated from data measured between 70&nbsp;<sup>&#176;</sup>C and 110&nbsp;<sup>&#176;</sup>C.
+47,1038tdep,1038,The value of &#8710;H<sup>&#176;</sup> listed in Table 2 of Bartlett and Margerum (1999) is incorrect.
+91,2169wrongrefHgBr2,"2169,2255",Hedgecock et&nbsp;al. (2005) refer to Hedgecock and Pirrone (2004) as the source but this value cannot be found there.
+48,735Cl2,735,"Kruis and May (1962) claim that Cl<sub>2</sub> does not obey Henry''s law. Looking at their interpolation formula, however, it seems that this is only because they did not consider the equilibrium Cl<sub>2</sub> + H<sub>2</sub>O &harr;&nbsp;HOCl + HCl."
+49,189ClBr,761,Calculated from the free energy of solution by Schwarz and Dodson (1984).
+50,1071,"",H<sub>s</sub>&#8242;&nbsp;= 2.0&times;10<sup>7</sup>&nbsp;(mol<sup>2</sup>)/(m<sup>6</sup>&nbsp;Pa)
+51,2840-7647-01-0,"",H<sub>s</sub>&#8242;&nbsp;= 2.0&times;10<sup>7</sup>&times;exp(9000&nbsp;K ((1)/(T)&#8722;(1)/(T<sup>&ominus;</sup>)))&nbsp;(mol<sup>2</sup>)/(m<sup>6</sup>&nbsp;Pa)
+52,530-7647-01-0,"",H<sub>s</sub>&#8242;&nbsp;= 2.0&times;10<sup>7</sup>&times;exp(9000&nbsp;K ((1)/(T)&#8722;(1)/(T<sup>&ominus;</sup>)))&nbsp;(mol<sup>2</sup>)/(m<sup>6</sup>&nbsp;Pa)
+53,489HCl,"",H<sub>s</sub>&#8242;&nbsp;= 2.0&times;10<sup>7</sup>&times;exp(9000&nbsp;K ((1)/(T)&#8722;(1)/(T<sup>&ominus;</sup>)))&nbsp;(mol<sup>2</sup>)/(m<sup>6</sup>&nbsp;Pa)
+54,34HClwrongref,"34,167",Pandis and Seinfeld (1989) refer to Marsh and McElroy (1985) as the source but the quoted value cannot be found there.
+55,183HOCl,"",This value was extrapolated from data at T = 215&nbsp;K and T = 263&nbsp;K.
+56,287HOCl,"",Value at pH = 6.5.
+57,at200K,"",Value at T&nbsp;= 200&nbsp;K.
+58,536ClNO2,"",Derived as a fitting parameter used in numerical modeling.
+59,759,759,Dubik et&nbsp;al. (1987) measured the solubility in concentrated salt solutions (natural brines).
+60,2840-10035-10-6,"",H<sub>s</sub>&#8242;&nbsp;= 8.2&times;10<sup>9</sup>&times;exp(10000&nbsp;K ((1)/(T)&#8722;(1)/(T<sup>&ominus;</sup>)))&nbsp;(mol<sup>2</sup>)/(m<sup>6</sup>&nbsp;Pa)
+61,530-10035-10-6,"",H<sub>s</sub>&#8242;&nbsp;= 1.3&times;10<sup>10</sup>&times;exp(10000&nbsp;K ((1)/(T)&#8722;(1)/(T<sup>&ominus;</sup>)))&nbsp;(mol<sup>2</sup>)/(m<sup>6</sup>&nbsp;Pa)
+62,489HBr,"",H<sub>s</sub>&#8242;&nbsp;= 7.0&times;10<sup>9</sup>&times;exp(10000&nbsp;K ((1)/(T)&#8722;(1)/(T<sup>&ominus;</sup>)))&nbsp;(mol<sup>2</sup>)/(m<sup>6</sup>&nbsp;Pa)
+63,171HBr,"171,46,87",Chameides and Stelson (1992) give a value of H<sub>s</sub>&#8242;&nbsp;= 7.1&times;10<sup>9</sup>&times;exp(6100&nbsp;K ((1)/(T)&#8722;(1)/(T<sup>&ominus;</sup>))) (mol<sup>2</sup>)/(m<sup>6</sup>&nbsp;Pa). They refer to Jacob (1986) and Chameides (1984) as the source but this value cannot be found there.
+64,276,"","The value is from Table 1 of the paper. However, <em>J.&nbsp;Geophys.&nbsp;Res.</em> forgot to print the tables and I received them directly from the author."
+65,910wrong,910,"Fickert (1998) extracted a value from wetted-wall flow tube experiments. However, it was later discovered that under the experimental conditions no evaluation of H<sub>s</sub> is possible (J.&nbsp;Crowley, pers.&nbsp;comm., 1999)."
+66,at275K,"",Value at T&nbsp;= 275&nbsp;K.
+67,at290K,"",Value at T&nbsp;= 290&nbsp;K.
+68,BrClRS,"489,318",Calculated using data from Wagman et&nbsp;al. (1982) and the aqueous-phase equilibrium Cl<sub>2</sub> + Br<sub>2</sub> &harr;&nbsp;2 BrCl from Wang et&nbsp;al. (1994).
+69,203I2,203,Thompson and Zafiriou (1983) quote a paper as the source that gives only the solubility but not the Henry's law constant.
+70,189I,762,Calculated from the free energy of solution by Schwarz and Bielski (1986).
+71,530-10034-85-2,"",H<sub>s</sub>&#8242;&nbsp;= 2.5&times;10<sup>10</sup>&times;exp(9800&nbsp;K ((1)/(T)&#8722;(1)/(T<sup>&ominus;</sup>)))&nbsp;(mol<sup>2</sup>)/(m<sup>6</sup>&nbsp;Pa)
+72,489HI,"",H<sub>s</sub>&#8242;&nbsp;= 2.1&times;10<sup>10</sup>&times;exp(9800&nbsp;K ((1)/(T)&#8722;(1)/(T<sup>&ominus;</sup>)))&nbsp;(mol<sup>2</sup>)/(m<sup>6</sup>&nbsp;Pa)
+73,203HOI,203,Thompson and Zafiriou (1983) assume that H<sub>s</sub><sup>cp</sup>(HOI) is between 4.4&times;10<sup>&#8722;1</sup> mol/(m<sup>3</sup>&nbsp;Pa) and 4.4&times;10<sup>2</sup> mol/(m<sup>3</sup>&nbsp;Pa).
+74,2629,2630,The parameter fit for the temperature dependence is incorrect. A corrected version was later presented by Iliuta and Larachi (2007).
+75,at353K,"",Value at T&nbsp;= 353&nbsp;K.
+76,769,769,"Marti et&nbsp;al. (1997) give partial pressures of H<sub>2</sub>SO<sub>4</sub> over a concentrated solution (e.g., 2.6&times;10<sup>&#8722;9</sup>&nbsp;Pa for 54.1 weight-percent at 298&nbsp;K). Extrapolating this to dilute solutions can only be considered an order-of-magnitude approximation for H<sub>s</sub>."
+77,201,201,Ayers et&nbsp;al. (1980) give partial pressures of H<sub>2</sub>SO<sub>4</sub> over concentrated solutions at high temperatures. Extrapolating this to dilute solutions can only be considered an order-of-magnitude approximation for H<sub>s</sub>.
+78,752,752,"Gmitro and Vermeulen (1964) give partial pressures of H<sub>2</sub>SO<sub>4</sub> over a concentrated solution (e.g., 10<sup>&#8722;7</sup>&nbsp;mmHg for 70 weight-percent at 298&nbsp;K). Extrapolating this to dilute solutions can only be considered an order-of-magnitude approximation for H<sub>s</sub>."
+79,2838,2838,"Clegg et&nbsp;al. (1998) estimate a Henry''s law constant of 5&times;10<sup>11</sup>&nbsp;atm<sup>&#8722;1</sup> at 303.15 K for the reaction H<sub>2</sub>SO<sub>4</sub>(g) &harr; 2 H<sup>+</sup>(aq) + SO<sub>4</sub><sup>2&#8722;</sup>(aq) but don''t give a definition for it. Probably it is defined as x<sup>2</sup>(H<sup>+</sup>)&times;x(SO<sub>4</sub><sup>2&#8722;</sup>)/p(H<sub>2</sub>SO<sub>4</sub>), where x is the aqueous-phase mixing ratio."
+80,1943-7440-59-7-erratum,1943,Erratum for page 265 of Fogg and Sangster (2003): The corresponding equation is incorrect. The second term should not be divided by 100&nbsp;K.
+81,477He,"",The value at T&nbsp;= 308.15&nbsp;K doesn't fit and is not used for the linear regression.
+82,477Rn,"","Though no reference was given, the value is probably from ."
+83,3033seawater,"","Solubility in natural sea water. Measurements at different salinities were also performed, but only at a fixed temperature of 296.15 K."
+84,from2577,2577,Value given here as quoted by Abraham et&nbsp;al. (2008).
+85,2286,2286,"Petersen et&nbsp;al. (1998) give the invalid unit '"mol&nbsp;L<sup>&#8722;1</sup>&nbsp;ppm<sup>&#8722;1</sup>'". Here, it is assumed that '"ppm'" is used as a synonym for '"10<sup>&#8722;6</sup> atm'"."
+86,2285wrongrefHgO,"2285,2286",Shon et&nbsp;al. (2005) refer to Petersen et&nbsp;al. (1998) as the source but a different value is listed there.
+87,at333K,"",Value at T&nbsp;= 333&nbsp;K.
+88,2577,"",Calculated using linear free energy relationships (LFER).
+89,highTextrapol,"",Measured at high temperature and extrapolated to T<sup>&ominus;</sup>&nbsp;= 298.15&nbsp;K.
+90,morethanoneref,"",More than one reference is given as the source of this value.
+92,789,789,Yaws and Yang (1992) give several references for the Henry's law constants but don't assign them to specific species.
+93,1943-74-98-6-erratum,1943,"Erratum for page 325 of Fogg and Sangster (2003): The second term in the equation describing the recommended data should be a division by T, not a multiplication, i.e.&nbsp;1.44345E4/T."
+94,2626-106-97-8-consicheck,2626,"The H298 and A,B,C data listed in Table 5.4 of Sander et&nbsp;al. (2011) are inconsistent, with 14&nbsp;% difference."
+95,1945-106-97-8-consicheck,1945,"The H298 and A,B,C data listed in Table 5.4 of Sander et&nbsp;al. (2006) are inconsistent, with 14&nbsp;% difference."
+96,2626-75-28-5-consicheck,2626,"The H298 and A,B,C data listed in Table 5.4 of Sander et&nbsp;al. (2011) are inconsistent, with 6&nbsp;% difference."
+97,1945-75-28-5-consicheck,1945,"The H298 and A,B,C data listed in Table 5.4 of Sander et&nbsp;al. (2006) are inconsistent, with 6&nbsp;% difference."
+98,1943-75-28-5,"1943,477","It is unclear why the value given by Fogg and Sangster (2003) is about 3 times higher than that given by Lide and Frederikse (1995) (and others), even though both refer to ."
+99,2910,2910,"Jou and Mather (2000) also contains high-temperature data. However, only data up to 373.2&nbsp;K were used here to calculate the temperature dependence."
+100,DeltaHsolv,"","Calculated from the solvation enthalpy, using the van ''t Hoff equation."
+101,2905,2905,"Apparently, the values in Table 2 of Park et&nbsp;al. (1997) show log<sub>10</sub>(K<sub><span class='"roman'">aw</span></sub>) and not K<sub><span class='"roman'">aw</span></sub> as their figure caption states."
+102,857,"",Extrapolated from data measured between 40&nbsp;<sup>&#176;</sup>C and 80&nbsp;<sup>&#176;</sup>C.
+103,1156,2894,The value is most probably taken from the report by Howe et&nbsp;al. (1987).
+104,747Mepentane,"747,1156","In their Table 8, Staudinger and Roberts (1996) incorrectly cite a value given by Ashworth et&nbsp;al. (1988)."
+105,903,618,The same data were also published in Hansen et&nbsp;al. (1995).
+106,903mehex,903,Hansen et&nbsp;al. (1993) found that the solubility of 2-methylhexane increases with temperature.
+107,supplement,"",Data taken from the supplement.
+108,2995EPI,"",Calculated using the EPI Suite (v4.0) method.
+109,2995SPARC,"",Calculated using the SPARC (v4.2) method.
+110,2995COSMO,"",Calculated using the COSMOtherm (v2.1) method.
+111,2995ABSOLV,"",Calculated using the ABSOLV (ADMEBoxes v4.1) method.
+112,2611_pc_problem,2611,"Mackay et&nbsp;al. (2006a) list a vapor pressure p, a solubility c, and a Henry''s law constant calculated as p/c. However, the data are internally inconsistent and deviate by more than 10 %."
+113,at294K,"",Value at T&nbsp;= 294&nbsp;K.
+114,1107-110-82-7-consicheck,1107,"The data listed in Tabs.&nbsp;2 and 3 of Dewulf et&nbsp;al. (1999) are inconsistent, with 5&nbsp;% difference."
+115,at301K,"",Value at T&nbsp;= 301&nbsp;K.
+116,from747,747,Value given here as quoted by Staudinger and Roberts (1996).
+117,CRCwrong2,"3034,479","Haynes (2014) refer to Mackay and Shiu (1981) but that article lists this value for 1,4-dimethylcyclohexane, not for 1,2-dimethylcyclohexane."
+118,479wrong,1337,"According to Donahue and Prinn (1993), the value is incorrect."
+119,at291K,"",Value at T&nbsp;= 291&nbsp;K.
+120,2551-107-00-6-consicheck,2551,"Regression and individual data points of Simpson and Lovell (1962) are inconsistent, with 5&nbsp;% difference."
+121,2645,2645,"Sieg et&nbsp;al. (2009) also provide data for supercooled water. Here, only data above 0&nbsp;<sup>&#176;</sup>C were used to calculate the temperature dependence."
+122,2996,"",Extrapolated from data above 298 K.
+123,cdep,"",It was found that H<sub>s</sub> changes with the concentration of the solution.
+124,3081VEL,3081,"Value obtained by applying a modified batch air-stripping method, otherwise called the vapor entry loop (VEL) method, see Kochetkov et&nbsp;al. (2001) for details."
+125,3081HS,3081,"Value obtained by applying the static head space (HS) method, see Kochetkov et&nbsp;al. (2001) for details."
+126,at296K,"",Value at T&nbsp;= 296&nbsp;K.
+127,seawater,"",Solubility in sea water.
+128,at302K,"",Value at T&nbsp;= 302&nbsp;K.
+129,719,719,"Calculated using G<sub>h</sub> and H<sub>h</sub> from Table 2 in Andon et&nbsp;al. (1954). Note that the thermodynamic functions in that table are not based on their &#945; in Table 1. Instead, the expression exp(&#8722;G<sub>h</sub>/(RT)) yields the Henry''s law constant H<sub>s</sub><sup>xp</sup> in the unit 1/atm."
+130,alsosalt,"",Values for salt solutions are also available from this reference.
+131,2969epics,2969,"Value obtained by applying the EPICS method, see Ayuttaya et&nbsp;al. (2001) for details."
+132,2969linear,2969,"Value obtained by applying the static cell (linear form) method, see Ayuttaya et&nbsp;al. (2001) for details."
+133,2969direct,2969,"Value obtained by applying the direct phase concentration ratio method, see Ayuttaya et&nbsp;al. (2001) for details."
+134,2969nonlin,2969,"Value obtained by applying the static cell (non-linear form) method, see Ayuttaya et&nbsp;al. (2001) for details."
+135,2901,2901,The temperature dependence is recalculated using the data in Table 4 of Lamarche and Droste (1989) and not taken from their Table 5.
+136,from584,584,Value given here as quoted by Dewulf et&nbsp;al. (1995).
+137,from3088,3088,Value given here as quoted by HSDB (2015).
+138,2935-100-41-4-consicheck,2935,"Different types of Henry''s law constants of Ryu and Park (1999) are inconsistent, with 14&nbsp;% difference."
+139,1943-98-82-8-erratum,"1943,2904","Erratum for page 365 of Fogg and Sangster (2003): Data from Kondoh and Nakajima (1997) are cited incorrectly, giving the same values at 308.2&nbsp;K and 318.2&nbsp;K, respectively."
+140,2338,2338,"Because of discrepancies between the values shown in Tables 4 and 5 of Shiu and Ma (2000), the data are not used here."
+141,1107notused,1107,"The values of Dewulf et&nbsp;al. (1999) are not used here because, according to them, the calculated regression does not match the theoretical expectation for this species."
+142,from3034,3034,Value given here as quoted by Haynes (2014).
+143,LDV,"",Literature-derived value.
+144,FAV,"",Final adjusted value.
+145,from2556,2556,Value given here as quoted by Petrasek et&nbsp;al. (1983).
+146,at299K,"",Value at T&nbsp;= 299&nbsp;K.
+147,at283K,"",Value at T&nbsp;= 283&nbsp;K.
+148,1911seawater,"",Solubility in sea water at 20.99 % chlorinity.
+149,1943-630-08-0-erratum,1943,"Erratum for page 260 of Fogg and Sangster (2003): The corresponding equation in preferred units is incorrect. The last term must be divided by 10000 (i.e.&nbsp;0.0704, not 704)."
+150,2986,"",Average of 4 pH-dependent values.
+151,2626-67-56-1-consicheck,2626,"The H298 and A,B,C data listed in Table 5.4 of Sander et&nbsp;al. (2011) are inconsistent, with 92&nbsp;% difference."
+152,improved711,711,"This paper supersedes earlier work with more concentrated solutions (Butler et&nbsp;al., 1933)."
+153,from715,715,Value given here as quoted by Gaffney et&nbsp;al. (1987).
+154,from714,714,Value given here as quoted by Hine and Weimar (1965).
+155,2626-71-23-8-consicheck,2626,"The H298 and A,B,C data listed in Table 5.4 of Sander et&nbsp;al. (2011) are inconsistent, with 10&nbsp;% difference."
+156,2997,"",Extrapolated from data above 298 K.
+157,542,542,Koga (1995) found that <i>tert</i>-butanol does not obey Henry's law at c  &gt;  3.8&nbsp;mM.
+158,588,588,Value obtained by Saxena and Hildemann (1996) using the group contribution method.
+159,642dimebu,642,"The species is probably 2,3-dimethyl-2-butanol and not 2,3-dimethylbutanol as listed in Hine and Mookerjee (1975)."
+160,1115_60435-70-3,1115,"It is assumed here that entry number 72 in Table 1 of Yaws et&nbsp;al. (1997) refers to 2-methyl-1-heptanol, not 2-methyl-2-heptanol."
+161,789-112-72-1-consicheck,789,"Different types of Henry''s law constants of Yaws and Yang (1992) are inconsistent, with 16&nbsp;% difference."
+162,789-629-76-5-consicheck,789,"Different types of Henry''s law constants of Yaws and Yang (1992) are inconsistent, with 10&nbsp;% difference."
+163,at307K,"",Value at T&nbsp;= 307&nbsp;K.
+164,from636,636,Value given here as quoted by Mackay et&nbsp;al. (1995).
+165,from642,642,Value given here as quoted by Hine and Mookerjee (1975).
+166,at373K,"",Value at T&nbsp;= 373&nbsp;K.
+167,at281K,"",Value at T&nbsp;= 281&nbsp;K.
+168,assumedMatm,"",It is assumed here that the thermodynamic data refers to the units&nbsp;[mol&nbsp;dm<sup>&#8722;3</sup>] and&nbsp;[atm] as standard states.
+169,from638,638,Value given here as quoted by Shiu et&nbsp;al. (1994).
+170,3088-3072,"3088,3072,1500",HSDB (2015) refer to Abraham et&nbsp;al. (1994b) as the source but this value cannot be found there. Maybe the value is taken from Abraham et&nbsp;al. (1990).
+171,2613_pc_problem,2613,"Mackay et&nbsp;al. (2006c) list a vapor pressure p, a solubility c, and a Henry''s law constant calculated as p/c. However, the data are internally inconsistent and deviate by more than 10 %."
+172,510buph,"510,754","Betterton (1992) gives Buttery et&nbsp;al. (1969) as the source. However, no data were found in that reference."
+173,bad713,588,Saxena and Hildemann (1996) say that this value is unreliable.
+174,588-57-55-6-range,588,Saxena and Hildemann (1996) give a range of 9.9&times;10<sup>2</sup> mol/(m<sup>3</sup>&nbsp;Pa)  &lt;  H<sub>s</sub><sup>cp</sup> &lt;  5.9&times;10<sup>4</sup> mol/(m<sup>3</sup>&nbsp;Pa).
+175,588-56-81-5-range,588,Saxena and Hildemann (1996) give a range of 5.9&times;10<sup>6</sup> mol/(m<sup>3</sup>&nbsp;Pa)  &lt;  H<sub>s</sub><sup>cp</sup> &lt;  3.9&times;10<sup>9</sup> mol/(m<sup>3</sup>&nbsp;Pa).
+176,588-110-63-4-range,588,Saxena and Hildemann (1996) give a range of 9.9&times;10<sup>2</sup> mol/(m<sup>3</sup>&nbsp;Pa)  &lt;  H<sub>s</sub><sup>cp</sup> &lt;  4.9&times;10<sup>4</sup> mol/(m<sup>3</sup>&nbsp;Pa).
+177,588-513-85-9-range,588,Saxena and Hildemann (1996) give a range of 3.9&times;10<sup>2</sup> mol/(m<sup>3</sup>&nbsp;Pa)  &lt;  H<sub>s</sub><sup>cp</sup> &lt;  3.9&times;10<sup>4</sup> mol/(m<sup>3</sup>&nbsp;Pa).
+178,3067-629-30-1-range,3067,"Compernolle and Müller (2014b) recommend H<sub>s</sub><sup>cp</sup> for 1,7-heptanediol in the range of 4.5&times;10<sup>4</sup> mol/(m<sup>3</sup>&nbsp;Pa)  &lt;  H<sub>s</sub><sup>cp</sup> &lt;  8.3&times;10<sup>4</sup> mol/(m<sup>3</sup>&nbsp;Pa)."
+179,3067-3937-56-2-range,3067,"Compernolle and Müller (2014b) recommend H<sub>s</sub><sup>cp</sup> for 1,9-nonanediol in the range of 2.4&times;10<sup>4</sup> mol/(m<sup>3</sup>&nbsp;Pa)  &lt;  H<sub>s</sub><sup>cp</sup> &lt;  3.9&times;10<sup>4</sup> mol/(m<sup>3</sup>&nbsp;Pa)."
+180,3067-112-47-0-range,3067,"Compernolle and Müller (2014b) recommend H<sub>s</sub><sup>cp</sup> for 1,10-decanediol in the range of 2.5&times;10<sup>4</sup> mol/(m<sup>3</sup>&nbsp;Pa)  &lt;  H<sub>s</sub><sup>cp</sup> &lt;  3.0&times;10<sup>4</sup> mol/(m<sup>3</sup>&nbsp;Pa)."
+181,from2521,2521,Value given here as quoted by Hilal et&nbsp;al. (2008).
+182,3088-EPI-Suite,"","Calculated using the EPI Suite method (<a href='"http://www.epa.gov/oppt/exposure/pubs/episuitedl.htm'"><tt>http://www.epa.gov/oppt/exposure/pubs/episuitedl.htm</tt></a>)."
+183,at278K,"",Value at T&nbsp;= 278&nbsp;K.
+184,1442,1442,Leriche et&nbsp;al. (2000) assume H<sub>s</sub>(ROO) = H<sub>s</sub>(ROOH) &times;H<sub>s</sub>(HO<sub>2</sub>) / H<sub>s</sub>(H<sub>2</sub>O<sub>2</sub>).
+185,31CH3OO,31,Lelieveld and Crutzen (1991) assume H<sub>s</sub>(CH<sub>3</sub>OO) = H<sub>s</sub>(HO<sub>2</sub>).
+186,46CH3OO,46,Jacob (1986) assumes H<sub>s</sub>(CH<sub>3</sub>OO) = H<sub>s</sub>(CH<sub>3</sub>OOH) &times;H<sub>s</sub>(HO<sub>2</sub>) / H<sub>s</sub>(H<sub>2</sub>O<sub>2</sub>).
+187,HCHOdiol,"","Effective value that takes into account the hydration of HCHO: <br clear='"all'" /><table border='"0'" width='"100%'"><tr><td><table align='"center'" cellspacing='"0'"  cellpadding='"2'"><tr><td nowrap='"nowrap'" align='"center'">H<sub>s</sub>= ([HCHO]+[CH<sub>2</sub>(OH)<sub>2</sub>])/p(HCHO)</td></tr></table></td></tr></table>"
+188,630,630,Data from Table 1 by Zhou and Mopper (1990) were used to redo the regression analysis. The data for acetone in their Table 2 are incorrect.
+189,485HCHO,485,"Dong and Dasgupta (1986) found that the Henry''s law constant for HCHO is not a true constant but increases with increasing concentration. They recommend the expression <br clear='"all'" /><table border='"0'" width='"100%'"><tr><td><table align='"center'" cellspacing='"0'"  cellpadding='"2'"><tr><td nowrap='"nowrap'" align='"center'"> [HCHO] = 10<sup>(4538/T&#8722;11.34)</sup> &times;p(HCHO)<sup>(252.2/T+0.2088)</sup></td></tr></table></td></tr></table> with [HCHO]&nbsp;= aqueous-phase concentration in [M], p(HCHO)&nbsp;= partial pressure in [atm], and T&nbsp;= temperature in [K]. Note that this expression does not converge asymptotically to a constant value at infinite dilution."
+231,672-88181-75-3,"624,672",The data from Kames and Schurath (1995) for peroxymethacryloyl nitrate are incorrectly cited by Schurath et&nbsp;al. (1996).
+190,481HCHO,"481,486,31,443,34","Ledbury and Blair (1925) (and also Blair and Ledbury (1925)) measured the solubility of HCHO at very high concentrations around 5 to 15&nbsp;M. Their value of H<sub>s</sub> increases with HCHO concentration. Lelieveld and Crutzen (1991), Hough (1991), and Pandis and Seinfeld (1989) all use these solubility data but do not specify how they extrapolated to lower concentrations. Since the concentration range is far from typical values in atmospheric chemistry, the value is not reproduced here."
+191,from507,507,Value given here as quoted by Möller and Mauersberger (1992).
+192,RCHOdiol,"","Effective value that takes into account the hydration of the aldehyde: <br clear='"all'" /><table border='"0'" width='"100%'"><tr><td><table align='"center'" cellspacing='"0'"  cellpadding='"2'"><tr><td nowrap='"nowrap'" align='"center'">H<sub>s</sub>= ([RCHO]+[RCH(OH)<sub>2</sub>])/p(RCHO)</td></tr></table></td></tr></table>"
+193,from641,641,Value given here as quoted by Bone et&nbsp;al. (1983).
+194,at372K,"",Value at T&nbsp;= 372&nbsp;K.
+195,510-2548-87-0,"755,510",The data from Buttery et&nbsp;al. (1971) for trans-2-octenal are incorrectly cited by Betterton (1992).
+196,2016,"",Calculated under the assumption that &#8710;G and &#8710;H are based on [mol/l] and [atm] as the standard states.
+197,3010,"",Effective value suitable for the conditions of a case study in Mexico City.
+198,3134-107-22-2-range,3134,Volkamer et&nbsp;al. (2009) found average effective Henry's law constants for CHOCHO in the range 1.6&times;10<sup>6</sup> mol/(m<sup>3</sup>&nbsp;Pa)  &lt;  H<sub>s</sub><sup>cp</sup> &lt;  5.9&times;10<sup>6</sup> mol/(m<sup>3</sup>&nbsp;Pa) for solutions containing ammonium sulfate and/or fulvic acid. A salting-in effect by fulvic acid was observed even in the absence of sulfate.
+199,2321,"",Solubility in sulfate aerosol.
+200,at313K,"",Value at T&nbsp;= 313&nbsp;K.
+201,520,520,The value given here was measured at a liquid phase mixing ratio of 1&nbsp;&#956;mol/mol. Servant et&nbsp;al. (1991) found that the Henry's law constant changes at higher concentrations.
+202,1497smoothed,1497,Abraham (1984) smoothed the values from a plot of enthalpy against carbon number.
+203,160,508,The value of H<sub>s</sub><sup>&ominus;</sup> was taken from Keene and Galloway (1986).
+204,46HCOOH,499,Calculated using thermodynamic data from Latimer (1952).
+205,715pH4,"",Value at pH = 4.
+206,from720,720,"Pecsar and Martin (1966) is quoted as the source. However, only activity coefficients and no vapor pressures are listed there."
+207,510mepr,"510,628","Betterton (1992) gives Kieckbusch and King (1979) as the source. However, no data were found in that reference."
+208,2957,"",Dipropyl phthalate is listed twice with different values.
+209,2646-1634-04-4-consicheck,2646,"Different types of Henry''s law constants of Arp and Schmidt (2004) are inconsistent, with 5&nbsp;% difference."
+210,510diox714,"510,714","Betterton (1992) gives Hine and Weimar (1965) as the source. However, no data were found in that reference."
+211,510diox728,"510,728","Betterton (1992) gives Vitenberg et&nbsp;al. (1975) as the source. However, no data were found in that reference."
+212,2949GCRI,"",Based on gas chromatograph retention indices (GC-RIs).
+213,2212wrongref,"2212,588",Warneck (2005) refers to Saxena and Hildemann (1996) as the source but the quoted value cannot be found there.
+214,3022-87-69-4-range,3022,Compernolle and Müller (2014a) recommend H<sub>s</sub><sup>cp</sup> for tartaric acid in the range of 6.9&times;10<sup>14</sup> mol/(m<sup>3</sup>&nbsp;Pa)  &lt;  H<sub>s</sub><sup>cp</sup> &lt;  9.2&times;10<sup>15</sup> mol/(m<sup>3</sup>&nbsp;Pa).
+215,3097-_CAS-86-range,3097,Chan et&nbsp;al. (2010) give a range of 1.9&times;10<sup>5</sup> mol/(m<sup>3</sup>&nbsp;Pa)  &lt;  H<sub>s</sub><sup>cp</sup> &lt;  9.5&times;10<sup>6</sup> mol/(m<sup>3</sup>&nbsp;Pa).
+216,3088-642,642,Calculated based on the method by Hine and Mookerjee (1975).
+217,3022-77-92-9-range,3022,Compernolle and Müller (2014a) recommend H<sub>s</sub><sup>cp</sup> for citric acid in the range of 2.0&times;10<sup>14</sup> mol/(m<sup>3</sup>&nbsp;Pa)  &lt;  H<sub>s</sub><sup>cp</sup> &lt;  5.9&times;10<sup>15</sup> mol/(m<sup>3</sup>&nbsp;Pa).
+218,3007,3007,"In their Fig.&nbsp;5b, Kish et&nbsp;al. (2013) apply an unspecified factor to the Henry''s law constant, and it is not clear if the temperature dependence shown there is correct (Y.&nbsp;Liu, pers.&nbsp;comm.&nbsp;2014)."
+219,510-142-84-7,"721,510",The data from Christie and Crisp (1967) for dipropylamine are incorrectly cited by Betterton (1992).
+220,at323K,"",Value at T&nbsp;= 323&nbsp;K.
+221,2614_pc_problem,2614,"Mackay et&nbsp;al. (2006d) list a vapor pressure p, a solubility c, and a Henry''s law constant calculated as p/c. However, the data are internally inconsistent and deviate by more than 10 %."
+222,2378like0917,"2378,719,2386","Calculated using &#8710;G<sub>s</sub><sup>g&#8594; H<sub>2</sub>O</sup> and &#8710;H<sub>s</sub><sup>g&#8594; H<sub>2</sub>O</sup> from Table IV of Arnett and Chawla (1979). Since some of the values in this table are taken directly from Andon et&nbsp;al. (1954), it is assumed that the thermodynamic properties are defined in the same way. Since &#8710;H<sub>s</sub><sup>g&#8594; H<sub>2</sub>O</sup> is defined relative to pyridine, a value of -11.93 kcal/mol from Arnett et&nbsp;al. (1977) was added."
+223,1525ref719,"719,1525","Due to an apparently incorrect definition of the Henry''s law constant by Andon et&nbsp;al. (1954), Staudinger and Roberts (2001) quote incorrect values from that paper."
+224,2378DTBP,2378,"This value is calculated from the solubility of 9.4&times;10<sup>&#8722;3</sup> mol/L and the vapor pressure of 0.255 mmHg, as shown on pages 7142-7143 of Arnett and Chawla (1979). It is inconsistent with the entry in Table IV of that paper."
+225,541iso,541,Kames and Schurath (1992) were unable to assign the values to the isomers.
+226,sameas978,978,The same data were also published in Fischer and Ballschmiter (1998a).
+227,669,"624,669","Comparing the value with that from the cited publication (Kames and Schurath, 1995), it can be seen that the unit and the temperature listed in Table 3 of Warneck et&nbsp;al. (1996) are incorrect."
+228,672-2278-22-0,"624,672",The data from Kames and Schurath (1995) for peroxyacetyl nitrate are incorrectly cited by Schurath et&nbsp;al. (1996).
+229,672-5796-89-4,"624,672",The data from Kames and Schurath (1995) for peroxypropionyl nitrate are incorrectly cited by Schurath et&nbsp;al. (1996).
+230,672-27746-48-1,"624,672",The data from Kames and Schurath (1995) for peroxy-n-butyl nitrate are incorrectly cited by Schurath et&nbsp;al. (1996).
+232,672-65424-60-4,"624,672",The data from Kames and Schurath (1995) for peroxy-i-butyl nitrate are incorrectly cited by Schurath et&nbsp;al. (1996).
+233,1107-98-95-3-consicheck,1107,"The data listed in Tabs.&nbsp;2 and 3 of Dewulf et&nbsp;al. (1999) are inconsistent, with 27&nbsp;% difference."
+234,at308K,"",Value at T&nbsp;= 308&nbsp;K.
+235,2614_88-85-7,2614,Mackay et&nbsp;al. (2006d) list two values for dinoseb which differ by a factor of 1000. It is unclear which number is correct (if any) and the data are not reproduced here.
+236,at287K,"",Value at T&nbsp;= 287&nbsp;K.
+237,2447-115-25-3,2447,"In their Table 13, Clever et&nbsp;al. (2005) list Ostwald coefficients that are probably incorrect by a factor of 100. Therefore, these values are not used. Instead, H<sub>s</sub> is calculated using the mol fraction x<sub>1</sub> from the same table."
+238,from498,498,Value given here as quoted by Kanakidou et&nbsp;al. (1995).
+239,at284K,"",Value at T&nbsp;= 284&nbsp;K.
+240,2992SPARC,2992,"Calculated using the new SPARC method, see Arp et&nbsp;al. (2006) for details."
+241,2992COSMO,2992,"Calculated using the COSMOtherm method, see Arp et&nbsp;al. (2006) for details."
+242,2626-431-47-0-consicheck,2626,"The H298 and A,B data listed in Table 5.4 of Sander et&nbsp;al. (2011) are inconsistent, with 29&nbsp;% difference."
+243,2447-428-59-1,2447,"The Ostwald coefficient given by Clever et&nbsp;al. (2005) at 313.2&nbsp;K is probably incorrect. Therefore, the Ostwald coefficients are not used. Instead, H<sub>s</sub> is calculated using the mol fraction x<sub>1</sub> from the same table."
+244,2992,"",Extrapolated based on number of carbons.
+245,901wwc,"",Measured with the wetted-wall column at room temperature.
+246,2626-74-87-3-consicheck,2626,"The H298 and A,B data listed in Table 5.4 of Sander et&nbsp;al. (2011) are inconsistent, with 9&nbsp;% difference."
+247,1945-74-87-3-consicheck,1945,"The H298 and A,B data listed in Table 5.4 of Sander et&nbsp;al. (2006) are inconsistent, with 9&nbsp;% difference."
+248,544,543,The same data were also published in McConnell et&nbsp;al. (1975).
+249,545noTdep,"",Values at different temperatures are from different sources. Thus a temperature dependence was not calculated.
+250,1113,1113,Chiang et&nbsp;al. (1998) show vinyl chloride in their Table 2 but most probably they meant to refer to dichloromethane instead.
+251,608,2952,Probably an interpolation of the data from Balls (1980).
+252,2904,2904,"The value for A in the table of Kondoh and Nakajima (1997) is incorrect. Recalculating the regression, it can be seen that it should be 13.95 and not 1.395."
+253,1926,1927,"As explained by Miller and Stuart (2003), the measurements were performed at 296&nbsp;K."
+254,1157-22-25,"",Value for T&nbsp;= 295... 298&nbsp;K.
+255,1157-20-25,"",Value for T&nbsp;= 293... 298&nbsp;K.
+256,2612_pc_problem,2612,"Mackay et&nbsp;al. (2006b) list a vapor pressure p, a solubility c, and a Henry''s law constant calculated as p/c. However, the data are internally inconsistent and deviate by more than 10 %."
+257,CRCwrong1,"3034,479","Haynes (2014) refer to Mackay and Shiu (1981) but that article lists this value for 1-chloro-2-methylpropane (the saturated compound), not for 1-chloro-2-methylpropene."
+258,1943-95-50-1-erratum,1943,"Erratum for page 344 of Fogg and Sangster (2003): The reference [89] seems to be incorrect, it does not contain 1,2-dichlorobenzene."
+259,1107-120-82-1-consicheck,1107,"The data listed in Tabs.&nbsp;2 and 3 of Dewulf et&nbsp;al. (1999) are inconsistent, with 7&nbsp;% difference."
+260,1107-108-70-3-consicheck,1107,"The data listed in Tabs.&nbsp;2 and 3 of Dewulf et&nbsp;al. (1999) are inconsistent, with 7&nbsp;% difference."
+261,1157-25-30,"",Value for T&nbsp;= 298... 303&nbsp;K.
+262,2564mgsm,2564,"Modified gas-stripping method (MGSM), see Lau et&nbsp;al. (2006) for details."
+263,2564igsm,2564,"Integrated gas-stripping method (IGSM), see Lau et&nbsp;al. (2006) for details."
+264,2932PCR,2932,"Calculated with the principal component regression (PCR) method, see Fang Lee (2007) for details."
+265,2932PLSR,2932,"Calculated with the partial least-square regression (PLSR) method, see Fang Lee (2007) for details."
+266,1140,643,The same data were also published in Dunnivant et&nbsp;al. (1988).
+267,from643,643,Value given here as quoted by Dunnivant et&nbsp;al. (1988).
+268,atroomT,"","Value at '"room temperature'"."
+269,849-35693-99-3-range,849,Westcott et&nbsp;al. (1981) give a range of 1.9&times;10<sup>&#8722;2</sup> mol/(m<sup>3</sup>&nbsp;Pa)  &lt;  H<sub>s</sub><sup>cp</sup> &lt;  3.2&times;10<sup>&#8722;2</sup> mol/(m<sup>3</sup>&nbsp;Pa).
+270,849-37680-73-2-range,849,Westcott et&nbsp;al. (1981) give a range of 2.8&times;10<sup>&#8722;2</sup> mol/(m<sup>3</sup>&nbsp;Pa)  &lt;  H<sub>s</sub><sup>cp</sup> &lt;  9.0&times;10<sup>&#8722;2</sup> mol/(m<sup>3</sup>&nbsp;Pa).
+271,1943-95-57-8-erratum,1943,Erratum for page 350 of Fogg and Sangster (2003): The equation describing the recommended temperature-dependent data appears to be incorrect and is not used here.
+272,2292pH4,"",Value at pH = 4.
+273,1524,1524,"When comparing H in table 4 with K<sub><span class='"roman'">gw</span></sub> in table 5 of Pfeifer et&nbsp;al. (2001), it can be seen that the values refer to K<sub><span class='"roman'">gw</span></sub>&times;100 and not K<sub><span class='"roman'">gw</span></sub>/100."
+274,893,"",Measured at pH 1.
+275,1943-39227-58-2-erratum,"1943,644","Erratum for page 376 of Fogg and Sangster (2003): Data from Santl et&nbsp;al. (1994) are cited incorrectly, it should be 3.64, not 3.84."
+276,2614_23950-58-5,2614,"Although pronamide and propyzamide are the same species, Mackay et&nbsp;al. (2006d) list two different values for them. It is unclear which number is correct (if any) and the data are not reproduced here."
+277,498R22,1014,The temperature dependence was recalculated from the data on p.&nbsp;20 of McLinden (1989).
+278,498-75-45-6,"1014,498",The data from McLinden (1989) for HCFC-22 are incorrectly cited by Kanakidou et&nbsp;al. (1995).
+279,2626-75-72-9-consicheck,2626,"The H298 and A,B data listed in Table 5.4 of Sander et&nbsp;al. (2011) are inconsistent, with 5&nbsp;% difference."
+280,498XPAN,498,Kanakidou et&nbsp;al. (1995) assume H<sub>s</sub>(CClF<sub>2</sub>OONO<sub>2</sub>) = H<sub>s</sub>(PAN).
+281,1943-558-13-4-erratum,1943,"Erratum for page 274 of Fogg and Sangster (2003): The value in the table is k<sub>H</sub>, not lnk<sub>H</sub>."
+282,CRCwrong3,"3034,635",Haynes (2014) refer to Mackay et&nbsp;al. (1993) as the source but this value cannot be found there.
+283,1943-106-96-7-erratum,"1943,1330","Erratum for page 321 of Fogg and Sangster (2003): Data from Yates and Gan (1998) are cited with a typo. The value at 313.2&nbsp;K should probably be 4.78&times;10<sup>&#8722;6</sup>, not 4.78&times;10<sup>&#8722;2</sup>."
+284,3118,"3118,1524",Diaz et&nbsp;al. (2005) also cite a Henry's law constant from Pfeifer et&nbsp;al. (2001) even though this species is not mentioned there. There might be a mix up of the different haloanisoles.
+285,1943-74-97-5-erratum,1943,Erratum for page 285 of Fogg and Sangster (2003): The data in their table look strange (9.70R) and are not used here.
+286,1943-75-03-6,1943,The regression given by Fogg and Sangster (2003) does not produce the data in their table. Thus the regression was recalculated.
+287,735CS2a,"735,2835","Kruis and May (1962) present data based on Booth and Jolley (1943). However, these data appear to be incorrect."
+288,2835rex,"2835,863","Booth and Jolley (1943) converted data from Rex (1906) to another unit. However, this was apparently not done correctly."
+289,2835chancel,"2835,2628","Booth and Jolley (1943) present data from Chancel and Parmentier (1885). However, in that paper only the solubility at an unknown partial pressure of CS<sub>2</sub> was measured."
+290,796,"",Value extracted from their Figure 46.
+291,from2835,2835,Value given here as quoted by Booth and Jolley (1943).
+292,from732,732,Value given here as quoted by Loomis (1928).
+293,260MSA,"",H<sub>s</sub>&#8242;&nbsp;= 6.4&times;10<sup>14</sup>&nbsp;(mol<sup>2</sup>)/(m<sup>6</sup>&nbsp;Pa)
+294,1943-67-68-5,"1943,2443","It is unclear how Fogg and Sangster (2003) obtained the data. Apparently, limiting activity coefficients &#947;<sup>&#8734;</sup> were taken from Trampe and Eckert (1993) but a source for vapor pressure data is not mentioned. Also, the &#947;<sup>&#8734;</sup> values listed in the table are different from those found in the original paper."
+295,from1525,1525,Value given here as quoted by Staudinger and Roberts (2001).
+296,2614_28249-77-6,2614,Mackay et&nbsp;al. (2006d) list two values for thiobencarb which differ by a large factor. It is unclear which number is correct (if any) and the data are not reproduced here.
+297,3015,"",Extrapolated from data at elevated temperatures.
+298,at300K,"",Value at T&nbsp;= 300&nbsp;K.
+299,2225,"190,2226","Wilhelm et&nbsp;al. (1977) and Abraham (1979) are quoted as the source. However, the data cannot be found there."
+300,2285wrongrefHgCH3OH,"2285,2286",Shon et&nbsp;al. (2005) refer to Petersen et&nbsp;al. (1998) as the source but this value cannot be found there.
+301,2288,"",The value from their experiment 7 at 10&nbsp;<sup>&#176;</sup>C is not used in the determination of the temperature dependence because of very different ionic strengths and concentrations for that experiment.
+302,2577-LFER,"",Temperature dependence calculated using linear free energy relationships (LFER).

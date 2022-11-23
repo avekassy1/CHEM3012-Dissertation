@@ -1,0 +1,62 @@
+id,subcatname,cat_id
+1,Oxygen (O),1
+2,Hydrogen (H),1
+3,Nitrogen (N),1
+4,Fluorine (F),1
+5,Chlorine (Cl),1
+6,Bromine (Br),1
+7,Iodine (I),1
+8,Sulfur (S),1
+9,"Rare gases (He, Ne, Ar, Kr, Xe, Rn)",1
+10,"Other elements (B, Se, P, As, Hg)",1
+11,Alkanes,2
+12,Cycloalkanes,2
+13,Aliphatic alkenes and cycloalkenes,2
+14,Aliphatic alkynes,2
+15,Mononuclear aromatics,2
+16,Terpenes and terpenoids,2
+17,Polynuclear aromatics,2
+18,Carbon oxides,3
+19,Alcohols (ROH),3
+20,Polyols (R(OH)<sub>n</sub>),3
+21,Peroxides (ROOH) and peroxy radicals (ROO),3
+22,Aldehydes (RCHO),3
+23,Ketones (RCOR),3
+24,Carboxylic acids (RCOOH) and peroxy carboxylic acids (RCOOOH),3
+25,Esters (RCOOR),3
+26,Ethers (ROR),3
+27,Heterocycles with oxygen,3
+28,Oxidized terpenoids,3
+29,Miscellaneous,3
+30,"Amines (C, H, N)",4
+31,"Heterocycles with nitrogen (C, H, N)",4
+32,"Nitriles (C, H, N)",4
+33,"Amines, amides, amino acids (C, H, O, N)",4
+34,"Heterocycles with oxygen and nitrogen (C, H, O, N)",4
+35,Nitrates (RONO<sub>2</sub>),4
+36,"Nitriles with oxygen (C, H, O, N)",4
+37,Nitro compounds (RNO<sub>2</sub>),4
+38,Organic fluorine,5
+39,"Chlorocarbons (C, H, Cl)",6
+40,Polychlorinated biphenyls (PCBs),6
+41,"Oxygenated chlorocarbons (C, H, O, Cl)",6
+42,Polychlorinated diphenyl ethers (PCDEs),6
+43,Polychlorinated dibenzofuranes (PCDFs),6
+44,Polychlorinated dibenzo-p-dioxins (PCDDs),6
+45,"Chlorocarbons with nitrogen (C, H, O, N, Cl)",6
+46,"Chlorofluorocarbons (C, H, O, N, F, Cl)",6
+47,"Bromocarbons (C, H, O, N, Br)",7
+48,Polybrominated diphenyl ethers (PBDEs),7
+49,"Bromine, chlorine and fluorine (C, H, N, O, F, Cl, Br)",7
+50,"Iodocarbons (C, H, O, Cl, I)",8
+51,"Sulfur (C, H, O, N, Cl, S)",9
+52,"Phosphorus (C, H, O, N, Cl, Br, S, P)",10
+53,Sodium (Na),11
+54,Aluminum (Al),11
+55,Silicon (Si),11
+56,Zinc (Zn),11
+57,Arsenic (Sn),11
+58,Selenium (Se),11
+59,Tin (Sn),11
+60,Mercury (Hg),11
+61,Lead (Pb),11

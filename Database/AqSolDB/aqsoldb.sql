@@ -1,0 +1,36 @@
+-- drop table if exists public.aqsoldb;
+-- Remember "Header" option when importing
+
+-- create table public.aqsoldb (
+-- 	id text,
+-- 	"name" text,
+-- 	InChI text,
+-- 	InChIKey text,
+-- 	SMILES text,
+-- 	Solubility double precision,
+-- 	SD double precision,
+-- 	Ocurrences int,
+-- 	"Group" text,
+-- 	MolWt double precision,
+-- 	MolLogP double precision,
+-- 	MolMR double precision,
+-- 	HeavyAtomCount int,
+-- 	NumHAcceptors int,
+-- 	NumHDonors int,
+-- 	NumHeteroatoms int,
+-- 	NumRotatableBonds int,
+-- 	NumValenceElectrons int,
+-- 	NumAromaticRings int,
+-- 	NumSaturatedRings int,
+-- 	NumAliphaticRings int,
+-- 	RingCount int,
+-- 	TPSA double precision,
+-- 	LabuteASA double precision,
+-- 	BalabanJ double precision,
+-- 	BertzCT double precision
+-- );
+
+-- select * from aqsoldb
+-- select * from species;
+
+-- merge aqsol and species on inchikey

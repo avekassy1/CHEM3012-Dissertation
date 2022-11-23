@@ -1,0 +1,12 @@
+id,catname
+1,Inorganic species
+2,"Hydrocarbons (C, H)"
+3,Organic species with oxygen (O)
+4,Organic species with nitrogen (N)
+5,Organic species with fluorine (F)
+6,Organic species with chlorine (Cl)
+7,Organic species with bromine (Br)
+8,Organic species with iodine (I)
+9,Organic species with sulfur (S)
+10,Organic species with phosphorus (P)
+11,Organic species with other elements
